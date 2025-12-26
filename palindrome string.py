@@ -1,3 +1,4 @@
+Using two pointers technique:
 def check(x):
     l=0
     r=len(x)-1
