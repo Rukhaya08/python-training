@@ -1,3 +1,4 @@
+#taking input as list and returning output as list
 def kk(nums):
     k=[]
     s=""
@@ -9,4 +10,5 @@ def kk(nums):
         k.append(int(ch))
     print(k)
 nums=list(map(int,input().split()))
+
 kk(nums)
